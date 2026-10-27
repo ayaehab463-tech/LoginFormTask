@@ -1,8 +1,8 @@
-# Java AWT Login Form ☕
+# Java AWT Login Form
 
 A simple desktop Login application built using **Java AWT**.
 
-## 🌟 Features
+##  Features
 - **Form Validation:** Checks for empty input fields.
 - **User Authentication:** Validates username, password, and role.
 - **Multiple Roles:** Supports `Student`, `TA`, and `Professor` roles.
@@ -11,7 +11,7 @@ A simple desktop Login application built using **Java AWT**.
 
 ---
 
-## 🔑 Test Credentials
+##  Test Credentials
 
 | Username | Password | Role |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ A simple desktop Login application built using **Java AWT**.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone or download this repository.
 2. Open the project in any Java IDE (VS Code, IntelliJ, Eclipse, NetBeans, etc.).
 3. Run `LoginFormTask.java`.
